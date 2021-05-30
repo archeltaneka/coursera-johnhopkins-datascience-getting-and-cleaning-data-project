@@ -3,7 +3,7 @@ A repository for Coursera's online course about Data Science with John Hopkins U
 
 ## Prerequisites
 1. Download the dataset [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzipped all files into a directory.
-For more information about how the data was obtained, visit [this](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) page
+For more information about how the data was obtained, visit [this](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) page. Then extract the files in the `UCI HAR Dataset/` directory.
 
 2. Clone this repository
     <code>
